@@ -301,6 +301,7 @@ exclude (
 	github.com/gogo/protobuf v1.2.1
 	github.com/gogo/protobuf v1.3.0
 	github.com/gogo/protobuf v1.3.1
+	github.com/gogo/protobuf v1.3.2
 	// force use of golang.org/x/lint
 	github.com/golang/lint v0.0.0-20180702182130-06c8688daad7
 	// exclude github.com/golang/protobuf < 1.3.2 https://nvd.nist.gov/vuln/detail/CVE-2021-3121
