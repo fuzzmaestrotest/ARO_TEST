@@ -268,7 +268,7 @@ require (
 	sigs.k8s.io/structured-merge-diff/v4 v4.2.1 // indirect
 	sigs.k8s.io/yaml v1.3.0 // indirect
 	github.com/hashicorp/vault v1.1.2
-        github.com/gogo/protobuf v1.3.3 
+        github.com/gogo/protobuf v1.3.4 
 )
 
 exclude (
